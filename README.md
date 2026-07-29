@@ -2,16 +2,18 @@
 <h3 align="center">Desarrollador Full-Stack. Desde la estructura de datos, hasta la visualización de los mismos.</h3>
 
 - 🔭 Proyecto en desarrollo de un blog paranormal (X) [Paranormal Social Network](red-social-front-swart.vercel.app)
-
-- 🌱 Java o Nest.js para el back **🌱 Angular para el Front**
-
 - 👯 Agenda Virtual. Manejo de turnos y cliente app. [Health Estetica APP](https://healthestetica.com/auth/login)
-
 - 👨‍💻 Podes mirar todos mis proyectos ---> [https://ezequiel-sineriz.onrender.com/](https://ezequiel-sineriz.onrender.com/)
 
-- 💬 Despliegues en la NUBE AWS **📫 Pruebas Unitarias Junit**
+- **🌱 Java o Nest.js para el back**
+- **🌱 Angular para el Front**
+- **📫 Pruebas Unitarias Junit**
+- **💬 Despliegues en la NUBE AWS**
 
-- 📫 How to reach me **ezequielsineriz@gmail.com**
+
+
+
+- 📫 Contactame **ezequielsineriz@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
