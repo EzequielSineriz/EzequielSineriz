@@ -11,10 +11,6 @@
 - **💬 Despliegues en la NUBE AWS**
 
 
-
-
-
-<h3 align="left">Connect with me:</h3>
 - 📫 Contactame **ezequielsineriz@gmail.com**
 <p align="left">
 </p>
