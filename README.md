@@ -18,6 +18,10 @@
 <p align="left">
 </p>
 
+![COBOL](https://img.shields.io/badge/COBOL-GnuCOBOL%20%7C%20IBM%20Enterprise-blue?style=for-the-badge&logo=ibm&logoColor=white)
+![JCL](https://img.shields.io/badge/JCL-z%2FOS%20Batch%20Jobs-006699?style=for-the-badge&logo=ibm&logoColor=white)
+![Mainframe](https://img.shields.io/badge/Mainframe-Core%20Banking-0052CC?style=for-the-badge&logo=ibm&logoColor=white)
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> 
