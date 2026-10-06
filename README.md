@@ -3,7 +3,7 @@
 
 - 🏛️ Sistema de actualización de maestro de cuentas bancarias y generación de reportes de auditoría en tiempo de ejecución Batch [Core Banking Batch & Audit System (COBOL)](https://github.com/EzequielSineriz/Core-Banking-Batch-Advanced)
 - 🔭 Proyecto en desarrollo de un blog paranormal [Paranormal Social Network](https://red-social-front-swart.vercel.app)
-- 👯 Agenda Virtual. Manejo de turnos y cliente app. [Health Estetica APP](https://healthestetica.com/auth/login)
+- 👯 Agenda Virtual. Manejo de turnos y cliente app. [Health Estetica APP](https://github.com/EzequielSineriz/Back-Estetica-Agenda-Suscripciones)
 - 👨‍💻 Podes mirar todos mis proyectos ---> [https://ezequiel-sineriz.onrender.com/](https://ezequiel-sineriz.onrender.com/)
 
 
